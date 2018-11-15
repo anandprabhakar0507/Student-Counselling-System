@@ -4,4 +4,4 @@ This web portal contains multiple web pages for ease of access. The Home Page co
 
 After selecting a college to apply, the student submits the application to the particular college and his college selection process is over. The algorithm used that provides the result is <b>Collaborative Filtering Algorithm</b> based on Users.
 
-For creating the website, Django Web Framework is used as it is based on Python.
+For creating the website, <b>Django Web Framework</b> is used as it is based on Python.
